@@ -1,0 +1,6 @@
+{
+  "name": "DocAI",
+  "description": "Voice-Based Symptom Smart Doctor Appointment Booking System with AI Symptom Extraction and Payment Integration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
